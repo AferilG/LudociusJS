@@ -1,11 +1,11 @@
 # LudociusJS
 ## Hey there!
-This is official documentation of Ludocius.
+This is official documentation of `Ludocius`.
 
 ### Now Working Functions:
-  >hi
   >
-  >help
+  >
+  >
 
 ### To-Do Functions:
   >Music
