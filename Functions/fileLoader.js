@@ -10,4 +10,4 @@ async function loadFiles(dirName) {
   return Files;
 }
 
-module.handler = { loadFiles };
+module.exports = { loadFiles };
