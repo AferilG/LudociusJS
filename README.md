@@ -8,15 +8,15 @@ This is official documentation of `Ludocius`.
   >
 
 ### To-Do Functions:
-  [] Music
+  [ ] Music
   
-  [] Minesweeper
+  [ ] Minesweeper
   
-  [] Help
+  [ ] Help
   
-  [] Leveling system???
+  [ ] Leveling system???
   
-  [] Self-Roles (Maybe modifyable in the future
+  [ ] Self-Roles (Maybe modifyable in the future
 
 ### Future Plans(Advanced If bot is successful):
   >Database Connections
