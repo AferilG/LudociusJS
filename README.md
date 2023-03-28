@@ -8,9 +8,9 @@ This is official documentation of `Ludocius`.
   >
 
 ### To-Do Functions:
-  [ ] Music
+  [x] Music
   
-  [ ] Minesweeper
+  [] Minesweeper
   
   [ ] Help
   
